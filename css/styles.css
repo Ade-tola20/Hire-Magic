@@ -1,0 +1,244 @@
+body {
+    background: #FFFFFF;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+/* TOP CONTAINER */
+#top-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* LOGO'S STYLE */
+.logo {
+    width: 126.7px;
+    height: 35px;
+    margin-top: 18px;
+}
+
+/* GET IN TOUCH STYLE */
+.touch{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.about {
+    width: 50px;
+    height: 25px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 23px;
+    margin-right: 42px;
+    text-decoration: none;
+}
+
+.services {
+    width: 68px;
+    height: 25px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 23px;
+    margin-right: 42px;
+    text-decoration: none;
+}
+
+.resources {
+    width: 84px;
+    height: 25px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 23px;
+    margin-right: 42px;
+    text-decoration: none;
+}
+
+.contact {
+    width: 89px;
+    height: 25px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    margin-top: 23px;
+    text-decoration: none;
+}
+
+/* BUTTON STYLE */
+.top-btn {
+    background: #FD9675;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Nunito Sans';
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 13px;
+}
+
+/* BODY  */
+#main {
+    display: flex;
+    flex-direction: row;
+}
+
+/* HIRE MAGIC'S STYLE */
+.hire-magic {
+    display: flex;
+    flex-direction: column;
+    margin-top: -140px;
+}
+
+/* HEADER STYLE */
+.header {
+    display: flex;
+    width: 481px;
+    margin: 234px 0 0 80px;
+}
+
+.heading{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 96px;
+    line-height: 105%;
+    color: #000000;
+    
+}
+
+/* PARAGRAPH'S STYLE */
+.para {  
+    display: flex;
+    margin-top: 7px;
+    margin: -185px auto auto 80px;
+    width: 430px;
+}
+
+.paragraph {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}
+
+/* BUTTON STYLE */
+.main-body-btn {
+    margin: -100px auto auto 80px;
+}
+
+.body-btn {
+    background: #FD9675;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Nunito Sans';
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+}
+
+/* PICTURES STYLE */
+.pictures {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* FIRST ROW STYLE */
+.first-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* LUXUS STYLE */
+.luxus {
+    margin-left: 74px;
+    margin-top: 123px;
+}
+
+/* APOSTROPHE STYLE */
+.apostrophe {
+    margin-left: 116.19px;
+    margin-top: 70px;
+}
+
+/* ASIAN STYLE */
+.asian {
+    margin-left: 116.19px;
+    margin-top: 123px;
+}
+
+/* SECOND ROW */
+.second-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* AFRO STYLE */
+.afro {
+    margin-left: 74px;
+    margin-top: 91.35px;
+}
+
+/* LATIN STYLE */
+.latin {
+    margin-left: 74.19px;
+    margin-top: 107.35px;
+}
+
+/* CAMERA STYLE */
+.camera {
+    margin-left: 75.18px;
+    margin-top: 91.35px;
+}
+
+/* THIRD ROW */
+.third-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* DESCARGA STYLE */
+.descarga {
+    margin-left: 74px;
+    margin-top: 91.35px;
+}
+
+/* DOWNLOAD STYLE */
+.download {
+    margin-left: 116.4px;
+    margin-top: 108px;
+}
+
+/* GIRLS STYLE */
+.girls {
+    margin-left: 116.4px;
+    margin-top: 91.35px;
+}
+
+/* CURLY STYLE */
+.curly {
+    width: 132.47px;
+}
